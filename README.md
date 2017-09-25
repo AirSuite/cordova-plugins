@@ -23,39 +23,39 @@ See [branch](https://github.com/apache/cordova-plugins/tree/create-test-files)
 
 ## keyboard
 
-See [README](https://github.com/apache/cordova-plugins/blob/keyboard/README.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/keyboard/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#keyboard`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#keyboard`
 
 ## local-webserver
 
-See [README](https://github.com/apache/cordova-plugins/blob/local-webserver/README.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/local-webserver/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#local-webserver`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#local-webserver`
 
 ## notification-rebroadcast
 
-See [README](https://github.com/apache/cordova-plugins/blob/notification-rebroadcast/README.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/notification-rebroadcast/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#notification-rebroadcast`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#notification-rebroadcast`
 
 ## notification
 
-See [README](https://github.com/apache/cordova-plugins/blob/notification/README.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/notification/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#notification`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#notification`
 
 ## tcpsocket
 
-See [README](https://github.com/apache/cordova-plugins/blob/tcpsocket/doc/index.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/tcpsocket/doc/index.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#tcpsocket`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#tcpsocket`
 
 ## wkwebview-engine-localhost
 
-See [README](https://github.com/apache/cordova-plugins/blob/wkwebview-engine-localhost/README.md)
+See [README](https://github.com/AirSuite/cordova-plugins/blob/wkwebview-engine-localhost/README.md)
 
-`cordova plugin add https://github.com/apache/cordova-plugins#wkwebview-engine-localhost`
+`cordova plugin add https://github.com/AirSuite/cordova-plugins#wkwebview-engine-localhost`
 
 
 
