@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AirSuite/cordova-plugins.git"
+    "url": "https://github.com/AirSuite/cordova-plugins.git"
   },
   "keywords": [
     "cordova",
