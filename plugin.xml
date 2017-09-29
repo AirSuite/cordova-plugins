@@ -16,11 +16,12 @@
         <engine name="apple-ios" version=">=8.0" />
 	</engines>
 
-    <dependency id="cordova-labs-local-webserver" url="git+https://github.com/AirSuite/cordova-plugins.git#local-webserver" version=">=2.3.1" />
-    <dependency id="cordova-plugin-wkwebview-engine" version=">=1.0.1" />
+    
 
     <!-- ios -->
     <platform name="ios">
+	<dependency id="cordova-labs-local-webserver" url="git+https://github.com/AirSuite/cordova-plugins.git#local-webserver" version=">=2.3.1" />
+    	<dependency id="cordova-plugin-wkwebview-engine" version=">=1.0.1" />
     </platform>
 
 </plugin>
